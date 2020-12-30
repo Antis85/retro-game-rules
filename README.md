@@ -2,6 +2,8 @@
 
 https://antis85.github.io/js-advanced-diploma/
 
+https://antis85.github.io/retro-game-rules/
+
 
 # AJS. Retro Game
 
