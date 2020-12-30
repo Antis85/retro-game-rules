@@ -1,8 +1,8 @@
 # RETRO GAME RULES
 
-[Играть: https://antis85.github.io/js-advanced-diploma/ ](https://antis85.github.io/js-advanced-diploma/)
+[ИГРАТЬ: https://antis85.github.io/js-advanced-diploma/ ](https://antis85.github.io/js-advanced-diploma/)
 
-[Правила игры: https://antis85.github.io/retro-game-rules/ ](https://antis85.github.io/retro-game-rules/)
+[ПРАВИЛА ИГРЫ: https://antis85.github.io/retro-game-rules/ ](https://antis85.github.io/retro-game-rules/)
 
 
 # AJS. Retro Game
